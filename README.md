@@ -25,7 +25,7 @@
 ## 4) Key artifacts
 - Основной ноутбук: [`01_customer_behavior_eda_forecast.ipynb`](./01_customer_behavior_eda_forecast.ipynb)
 - Доп. материал (часть анализа): [`02_sibur_categorical_numeric_analysis.ipynb`](./02_sibur_categorical_numeric_analysis.ipynb)
-- Итоговые выводы: [`reports/insights.md`](./reports/insights.md)
+- Итоговые выводы: [`reports/insights.md`](./insights.md)
 
 ## 5) Results & recommendations
 - Сформирована структура проверки данных (качество, выбросы, дубликаты) и воспроизводимый пайплайн анализа.
