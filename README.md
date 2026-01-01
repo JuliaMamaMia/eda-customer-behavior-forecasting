@@ -23,8 +23,8 @@
 5. **Прогнозирование:** подготовка ряда, проверка стационарности, выбор модели, валидация, финальный прогноз (ETS).
 
 ## 4) Key artifacts
-- Основной ноутбук: [`notebooks/01_customer_behavior_eda_forecast.ipynb`](./notebooks/01_customer_behavior_eda_forecast.ipynb)
-- Доп. материал (часть анализа): [`notebooks/02_sibur_categorical_numeric_analysis.ipynb`](./notebooks/02_sibur_categorical_numeric_analysis.ipynb)
+- Основной ноутбук: [`01_customer_behavior_eda_forecast.ipynb`](./01_customer_behavior_eda_forecast.ipynb)
+- Доп. материал (часть анализа): [`02_sibur_categorical_numeric_analysis.ipynb`](./02_sibur_categorical_numeric_analysis.ipynb)
 - Итоговые выводы: [`reports/insights.md`](./reports/insights.md)
 
 ## 5) Results & recommendations
